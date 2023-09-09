@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 #include<math.h>
 #include <cstdlib>
 //este es un cambio nuevo
@@ -23,7 +22,7 @@ int main ()
 	{
 			cout<<"Error volver a intentar"<<endl;
 
-exit(EXIT_FAILURE); // Funcion para salir del programa, existen otras pero por ahora con esta está bien.
+exit(EXIT_FAILURE); // Funcion para salir del programa, existen otras pero por ahora con esta estï¿½ bien.
 
 }
 	switch(opcion){	
